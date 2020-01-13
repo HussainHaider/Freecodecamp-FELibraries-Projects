@@ -1,0 +1,40 @@
+input[type=button] {
+    width: 60px;
+    height: 60px;
+    float: left;
+    padding: 0;
+    margin: 5px;
+    box-sizing: border-box;
+    background: #ecedef;
+    border: none;
+    font-size: 30px;
+    line-height: 30px;
+    border-radius: 50%;
+    font-weight: 500;
+    color: #5E5858;
+    cursor: pointer;
+}
+
+*:focus {
+    outline: none;
+}
+
+.green {
+    background: #2EC073 !important;
+    color: white !important;
+}
+
+.yellow {
+    background: #FF9500 !important;
+    color: white !important;
+}
+
+.red {
+    background: #F8ECED !important;
+    color: #F66971 !important;
+}
+
+.blue {
+    background: #D5F3FE !important;
+    color: #0836C1 !important;
+}
