@@ -13,7 +13,7 @@ renderer.link = function (href, title, text) {
 
 const Preview = (props) => {
     return (
-        <div id='preview' dangerouslySetInnerHTML={{__html: marked(props.markdown, { renderer: renderer })}} />
+        <div className={classes.preview} dangerouslySetInnerHTML={{__html: marked(props.markdown, { renderer: renderer })}} />
     )
 };
 

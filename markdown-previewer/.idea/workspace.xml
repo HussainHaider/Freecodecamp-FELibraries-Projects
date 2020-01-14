@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="744f292e-644b-4963-b7d9-d44b19356873" name="Default Changelist" comment="" />
+    <list default="true" id="744f292e-644b-4963-b7d9-d44b19356873" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../pomodoro-clock/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pomodoro-clock/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pomodoro-clock/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pomodoro-clock/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pomodoro-clock" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -73,7 +77,7 @@
       <updated>1578670591417</updated>
       <workItem from="1578670594043" duration="2655000" />
       <workItem from="1578973647561" duration="3489000" />
-      <workItem from="1579014609497" duration="766000" />
+      <workItem from="1579014609497" duration="6496000" />
     </task>
     <servers />
   </component>
@@ -81,25 +85,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1507" height="196" key="GridCell.Tab.0.bottom" timestamp="1579015128958">
+    <state x="498" y="104" key="FileChooserDialogImpl" timestamp="1579016251227">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1507" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579015128957" />
-    <state width="1507" height="196" key="GridCell.Tab.0.center" timestamp="1579015128957">
+    <state x="498" y="104" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1579016251227" />
+    <state width="1507" height="196" key="GridCell.Tab.0.bottom" timestamp="1579016589076">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1507" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579015128957" />
-    <state width="1507" height="196" key="GridCell.Tab.0.left" timestamp="1579015128957">
+    <state width="1507" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579016589076" />
+    <state width="1507" height="196" key="GridCell.Tab.0.center" timestamp="1579016589076">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1507" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579015128957" />
-    <state width="1507" height="196" key="GridCell.Tab.0.right" timestamp="1579015128957">
+    <state width="1507" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579016589076" />
+    <state width="1507" height="196" key="GridCell.Tab.0.left" timestamp="1579016589076">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1507" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579015128957" />
+    <state width="1507" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579016589076" />
+    <state width="1507" height="196" key="GridCell.Tab.0.right" timestamp="1579016589076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1507" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579016589076" />
     <state x="160" y="0" key="SettingsEditor" timestamp="1578973656611">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="160" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578973656611" />
+    <state x="403" y="70" width="881" height="754" key="find.popup" timestamp="1579019718465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="403" y="70" width="881" height="754" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1579019718465" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1579015580352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579015580352" />
   </component>
 </project>

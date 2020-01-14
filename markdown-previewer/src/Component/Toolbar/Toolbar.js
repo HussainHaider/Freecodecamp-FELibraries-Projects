@@ -1,11 +1,11 @@
 import React from "react";
+import classes from './Toolbar.css';
 
 const Toolbar = (props) => {
     return (
-        <div className="toolbar">
-            <i title="no-stack-dub-sack" className="fa fa-free-code-camp"/>
+        <div className={classes.toolbar}>
+            <i title="no-stack-dub-sack" className="fab fa-free-code-camp"/>
             {props.text}
-            <i onClick={props.onClick} className={props.icon}/>
         </div>
     )
 };
